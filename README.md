@@ -20,6 +20,7 @@ The scripts of MalFamilyClassifier are divided into three parts:
 
 The directory of all types of data is organized as follows:
 
+```
 |-- /                             # "data_path" defined in the scripts
     |-- raw_data                  # dataset (after pre-processing on original opensource datasets)
         |-- train # training set
@@ -34,12 +35,12 @@ The directory of all types of data is organized as follows:
         |-- semantic              # semantic files corresponding to samples in the dataset.
         |-- other temprory files
     |-- prediction_result         # results predicted by models and metrics
+```
 
 ## Links
 
-- 2021 CCF BDCI Digital Security Open on "Malware family classification based on Artificial Intelligence" **Rank 2**
-  - [Code](https://gitee.com/LizhengyangSec/malware_-classification_-bdci/tree/master)
-  - [Writeup](https://mp.weixin.qq.com/s/q0ScSZyXFK8XLgMTBU9k5g)
+- [2021 CCF BDCI Digital Security Open on "Malware family classification based on Artificial Intelligence"](https://www.datafountain.cn/competitions/507) **Rank 2/724**
+  - [Code](https://gitee.com/LizhengyangSec/malware_-classification_-bdci/tree/master) | [Writeup](https://mp.weixin.qq.com/s/q0ScSZyXFK8XLgMTBU9k5g)
 
 ## Citation
 
