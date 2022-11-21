@@ -1,5 +1,5 @@
 # MalFamilyClassifier
-The source code for the paper "Imbalanced Malware Family Classification Using Multimodal Fusion and Weight Self-learning".
+The source code for the paper "[Imbalanced Malware Family Classification Using Multimodal Fusion and Weight Self-learning](https://ieeexplore.ieee.org/abstract/document/9913918)".
 
 ## Scripts
 
