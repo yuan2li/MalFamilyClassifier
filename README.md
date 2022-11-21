@@ -43,4 +43,12 @@ The directory of all types of data is organized as follows:
   - [Code](https://gitee.com/LizhengyangSec/malware_-classification_-bdci/tree/master) | [Writeup](https://mp.weixin.qq.com/s/q0ScSZyXFK8XLgMTBU9k5g)
 
 ## Citation
+If you use the scripts for your research please cite the following paper:
 
+ ```
+S. Li, Y. Li, X. Wu, S. A. Otaibi and Z. Tian, "Imbalanced Malware Family Classification Using Multimodal Fusion and Weight Self-Learning," in IEEE Transactions on Intelligent Transportation Systems, 2022, doi: 10.1109/TITS.2022.3208891.
+ ```
+ 
+ ```bib
+@ARTICLE{9913918,  author={Li, Shudong and Li, Yuan and Wu, Xiaobo and Otaibi, Sattam Al and Tian, Zhihong},  journal={IEEE Transactions on Intelligent Transportation Systems},   title={Imbalanced Malware Family Classification Using Multimodal Fusion and Weight Self-Learning},   year={2022},  volume={},  number={},  pages={1-11},  doi={10.1109/TITS.2022.3208891}}
+```
